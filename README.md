@@ -1,6 +1,6 @@
 # Aulas a serem repostas:
 
-- 14/02 -> 29/04 das 11h30 as 13h10 (2 pres/ 2 teams) 
+~~- 14/02 -> 29/04 das 11h30 as 13h10 (2 pres/ 2 teams)~~ 
 - 28/02 -> 13/05 das 11h30 as 13h10 (2 pres/ 2 teams)
 - 07/03 -> 20/05 das 11h30 as 13h10 (2 pres/ 2 teams)
 - 14/03 -> 27/05 das 11h30 as 13h10 (2 pres/ 2 teams)
