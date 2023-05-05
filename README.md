@@ -12,6 +12,5 @@
 - Aula 05 - Exercícios de Laços de Repetição (09/05/2023)
 - ...
 
-
-- **06/06 - P2 (turma dividida 1º Horário e 2º Horário)
-Sorteio**
+# Avaliação Prática P2
+- **06/06 - P2 (turma dividida 1º Horário e 2º Horário) Sorteio**
