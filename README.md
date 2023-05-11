@@ -14,3 +14,11 @@
 
 # Avaliação Prática P2
 - **06/06 - P2 (turma dividida 1º Horário e 2º Horário) Sorteio**
+
+
+# XXI Workshop Tecnológico - Fatec Mauá - 2023
+Datas 16/05/2023 – 18/05/2023
+
+## Recomendado para a disciplina:
+- 16/05 DAS 19H30 AS 21H30: Business Inteligente, Inteligência Aplicada aos Negócios
+- Tipo: Palestra, Local: B11
