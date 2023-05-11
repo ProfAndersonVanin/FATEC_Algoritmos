@@ -16,7 +16,8 @@
 - **06/06 - P2 (turma dividida 1º Horário e 2º Horário) Sorteio**
 
 
-# XXI Workshop Tecnológico - Fatec Mauá - 2023
+# $${\color{red}XXI Workshop Tecnológico - Fatec Mauá - 2023}$$ 
+Datas 16/05/2023 – 18/05/2023
 Datas 16/05/2023 – 18/05/2023
 
 ## Recomendado para a disciplina:
