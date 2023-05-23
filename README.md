@@ -16,7 +16,9 @@
 
 # Avaliação Prática P2
 - **06/06 - P2 (turma dividida 1º Horário e 2º Horário) Sorteio**
+
 ![Turma A](https://github.com/ProfAndersonVanin/FATEC_Algoritmos/assets/53703505/08b3f7da-7f90-4137-b239-f44bb4f325ca)
+
 ![Turma B](https://github.com/ProfAndersonVanin/FATEC_Algoritmos/assets/53703505/d2f1ee01-619f-450a-99dc-c59131f445f8)
 
 
